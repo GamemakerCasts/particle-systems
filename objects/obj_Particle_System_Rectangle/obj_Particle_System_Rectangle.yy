@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_Particle_Icon_Rectangle",
+    "path": "sprites/spr_Particle_Icon_Rectangle/spr_Particle_Icon_Rectangle.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_Particle_System",
+    "path": "objects/obj_Particle_System/obj_Particle_System.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Rectangle","path":"objects/obj_Particle_System_Rectangle/obj_Particle_System_Rectangle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":12,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Rectangle","path":"objects/obj_Particle_System_Rectangle/obj_Particle_System_Rectangle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Rectangle","path":"objects/obj_Particle_System_Rectangle/obj_Particle_System_Rectangle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"_emitter_mask","path":"objects/obj_Particle_System/obj_Particle_System.yy",},"objectId":{"name":"obj_Particle_System","path":"objects/obj_Particle_System/obj_Particle_System.yy",},"value":"\"rectangle\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Particle System",
+    "path": "folders/Objects/Particle System.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_Particle_System_Rectangle",
+  "tags": [],
+  "resourceType": "GMObject",
+}

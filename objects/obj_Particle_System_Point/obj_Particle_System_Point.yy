@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_Particle_Icon_Point",
+    "path": "sprites/spr_Particle_Icon_Point/spr_Particle_Icon_Point.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_Particle_System",
+    "path": "objects/obj_Particle_System/obj_Particle_System.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Point","path":"objects/obj_Particle_System_Point/obj_Particle_System_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":12,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Point","path":"objects/obj_Particle_System_Point/obj_Particle_System_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Point","path":"objects/obj_Particle_System_Point/obj_Particle_System_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"_emitter_mask","path":"objects/obj_Particle_System/obj_Particle_System.yy",},"objectId":{"name":"obj_Particle_System","path":"objects/obj_Particle_System/obj_Particle_System.yy",},"value":"\"point\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Particle System",
+    "path": "folders/Objects/Particle System.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_Particle_System_Point",
+  "tags": [],
+  "resourceType": "GMObject",
+}
