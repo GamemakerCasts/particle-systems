@@ -173,3 +173,15 @@
 		update_emitter();
 	}
 #endregion
+
+#region UPDATE DIRECTION
+	update_direction = function(_min, _max) {
+		part_type_direction(pt_Effect1, _min, _max, _direction_increase, _direction_wiggle);
+	}
+#endregion
+
+#region UPDATE ORIENTATION
+	update_orientation = function(_min, _max) {
+		part_type_orientation(pt_Effect1, _min, _max, _orientation_increase, _orientation_wiggle, _orientation_relative);
+	}
+#endregion
