@@ -23,11 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Point","path":"objects/obj_Particle_System_Point/obj_Particle_System_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":12,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Point","path":"objects/obj_Particle_System_Point/obj_Particle_System_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_Particle_System_Point","path":"objects/obj_Particle_System_Point/obj_Particle_System_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"_emitter_mask","path":"objects/obj_Particle_System/obj_Particle_System.yy",},"objectId":{"name":"obj_Particle_System","path":"objects/obj_Particle_System/obj_Particle_System.yy",},"value":"\"point\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
