@@ -11,7 +11,7 @@
 	
 	switch(_shape) {
 		case "sprite":
-			part_type_sprite(pt_Effect1, _sprite, true, false, true);
+			part_type_sprite(pt_Effect1, _sprite, _sprite_animate, _sprite_animate_smooth, _sprite_random_frame_start);
 		break;
 		case "disk":
 		    part_type_shape(pt_Effect1, pt_shape_disk);
